@@ -1,0 +1,1 @@
+This simple script allows you to create a screenshot of the desired area in Excel
